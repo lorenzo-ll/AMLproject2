@@ -1,1 +1,2 @@
 # AML_project2
+This repository contains all the code used to generate the results in the paper. The aml_project2 notebook includes the extension along with some different configurations in order to use omnivore and egovlp. The variations  folder includes all the changes that were needed to be made for using VSLBase, VSLNet with non shared encoders, the VSLNet main modified for pretraining and finetuning, and 2D-TAN (Which kept failing due to its long Runtime, and colab kept timing us out, but we will include the modifications that we tried to do)
